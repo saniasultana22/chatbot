@@ -1,7 +1,5 @@
 streamlit
 requests
-speechrecognition
-pyttsx3
-reportlab
+python-docx
 python-pptx
-pyaudio
+fpdf2

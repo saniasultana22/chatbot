@@ -1,2 +1,7 @@
 streamlit
 requests
+speechrecognition
+pyttsx3
+reportlab
+python-pptx
+pyaudio
